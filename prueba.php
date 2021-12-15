@@ -5,7 +5,7 @@
             <title>Título</title>
     </head>
     <body>
-      <!-- Arriba españita-->
+      <!-- Areyriba españita-->
          <!-- muestra un número aleatorio de dos -->
         <?php
             $numero=mt_rand(0,1);
